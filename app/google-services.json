@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348997055346",
+    "firebase_url": "https://exellio-d7fa9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "exellio-d7fa9",
+    "storage_bucket": "exellio-d7fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348997055346:android:afc141014e96850a3ee3eb",
+        "android_client_info": {
+          "package_name": "com.example.fairebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348997055346-ofaijmanjbpq77q1ctq6q5k8c3d7njg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fairebase2",
+            "certificate_hash": "0b3c371f7003bebe3ea5cb707eb626a35e810e4a"
+          }
+        },
+        {
+          "client_id": "348997055346-jb6a4dniulbbcddhni38puj91lqotnqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrBkmQ18Bnl3Sn5PRB3UgQO_dMvQ6-HAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348997055346-5p0nuphjvtib129f0r9l1rnbkj459686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
