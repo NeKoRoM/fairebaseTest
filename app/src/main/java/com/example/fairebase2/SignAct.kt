@@ -27,7 +27,8 @@ class SignAct : AppCompatActivity() {
 //    lateinit var signInRequest: BeginSignInRequest
 //    private lateinit var oneTapClient: SignInClient
     lateinit var launcher: ActivityResultLauncher<Intent>
-    
+
+
     private lateinit var googleSignInClient: GoogleSignInClient
     lateinit var auth: FirebaseAuth
 
